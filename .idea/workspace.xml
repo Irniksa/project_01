@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b93335d2-3211-4992-9941-ccafb2ee976e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lvl_1/complete_task_1.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lvl_1/complete_task_1.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lvl_1/complete_task_1.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lvl_1/complete_task_1.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lvl_2/complete_task_2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lvl_2/complete_task_2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lvl_2/complete_task_2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lvl_2/complete_task_2.4.py" afterDir="false" />
-    </list>
+    <list default="true" id="b93335d2-3211-4992-9941-ccafb2ee976e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +40,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Kot/Desktop/project_01&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
